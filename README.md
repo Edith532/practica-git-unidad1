@@ -1,2 +1,2 @@
-# practica-git-unidad1
-Editado desde la rama nueva-funcionalidad 
+# practica-git-unidad1 - version B
+Editado desde la rama nueva-funcionalidad -
